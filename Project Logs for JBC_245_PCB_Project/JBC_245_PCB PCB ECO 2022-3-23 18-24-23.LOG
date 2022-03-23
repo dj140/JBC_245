@@ -1,0 +1,7 @@
+Added Component: Designator=M1(TP-PIN)
+Added Component: Designator=M2(TP-PIN)
+Added Pin To Net: NetName=NetC2_2 Pin=M1-1
+Added Pin To Net: NetName=GND Pin=M2-1
+Added Member To Class: ClassName=JBC_245 Member=Component M1 Test_Point
+Added Member To Class: ClassName=JBC_245 Member=Component M2 Test_Point
+Added Room: Name=JBC_245

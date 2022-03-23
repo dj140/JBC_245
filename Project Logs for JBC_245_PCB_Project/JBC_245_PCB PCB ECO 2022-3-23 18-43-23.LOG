@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=J1 Old Footprint=Fe-HDR1X6/2.54-S New Footprint=Pin HDR1X6/2.54mm-S
+Change Component Comment : Designator=J1 Old Comment=Female HDR1X6 New Comment=Pin HDR1X6
+Added Room: Name=JBC_245
