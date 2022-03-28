@@ -1,5 +1,0 @@
-Change Component Footprint: Designator=C1 Old Footprint=CAP_0402 New Footprint=1206C
-Change Component Footprint: Designator=C2 Old Footprint=CAP_0402 New Footprint=1206C
-Change component parameters: Designator = "C1" ("C1"); Footprint = "CAP_0402"; UniqueID = "\PKNGJHRJ" ("\PKNGJHRJ")
-Change component parameters: Designator = "C2" ("C2"); Footprint = "CAP_0402"; UniqueID = "\OTKDBUPN" ("\OTKDBUPN")
-Added Room: Name=JBC_245

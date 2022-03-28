@@ -122,7 +122,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=CALQQGNO
 
 [Document6]
 DocumentPath=..\SFT_V4_PCB_Project\SFT_V4.SchLib
@@ -140,6 +140,10 @@ ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UOXVSBEL
+
+[GeneratedDocument1]
+DocumentPath=Project Outputs for JBC_245_PCB_Project\Design Rule Check - JBC_245_PCB.html
+DItemRevisionGUID=
 
 [Configuration1]
 Name=Sources
